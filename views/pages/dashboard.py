@@ -20,12 +20,12 @@ icon_paths = [
  
 # Corresponding URLs to open when each icon is clicked
 icon_urls = [ 
-    'About_Me',  # URL for the 'about' icon
+    'profile',  # URL for the 'about' icon
     'https://www.facebook.com/danderexzai?mibextid=ZbWKwL',  # URL for Facebook
     'https://github.com/ZairenMae',  # URL for GitHub
     'https://www.instagram.com/zairen._.00/',  # URL for Instagram
     'https://www.linkedin.com/in/zairen-mae-a-ni%C3%B1ofranco-930699305/',  # URL for LinkedIn
-    'views/pages/projects.py'  # URL for Projects
+    'projects'  # URL for Projects
 ]
  
 # Convert images to base64
